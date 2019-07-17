@@ -1,2 +1,2 @@
-### Freegate 7.67p 2019/04/03
-[fg767p.zip](files/fg767p.zip)
+### Freegate 7.68p 2019/06/15
+[fg768p.zip](files/fg768p.zip)

@@ -1,2 +1,2 @@
-### Freegate 7.74p 2020/02/20
-[fg774p.zip](files/fg774p.zip)
+### Freegate 7.77 2020/03/13
+[fg777p.zip](files/fg777p.zip)

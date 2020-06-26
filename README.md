@@ -1,2 +1,2 @@
-### Freegate 7.85 2020/06/23
-[fg785p.zip](files/fg785p.zip)
+### Freegate 7.86 2020/06/26
+[fg786p.zip](files/fg786p.zip)

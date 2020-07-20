@@ -1,2 +1,2 @@
-### Freegate 7.87 2020/07/07
-[fg787p.zip](files/fg787p.zip)
+### Freegate 7.88 2020/07/20
+[fg788p.zip](files/fg788p.zip)

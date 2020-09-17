@@ -1,2 +1,2 @@
-### Freegate 7.89 2020/09/04
-[fg789p.zip](files/fg789p.zip)
+### Freegate 7.90 2020/09/18
+[fg790p.zip](files/fg790p.zip)

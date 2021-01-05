@@ -1,2 +1,2 @@
-### Freegate 7.91 2020/11/01
-[fg791p.zip](files/fg791p.zip)
+### Freegate 7.92 2021/01/06
+[fg792p.zip](files/fg792p.zip)

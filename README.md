@@ -1,2 +1,2 @@
-### Freegate 7.96 2021/05/19
-[fg796p.zip](files/fg796p.zip)
+### Freegate 7.97 2021/07/17
+[fg797p.zip](files/fg797p.zip)

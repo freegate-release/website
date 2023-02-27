@@ -1,2 +1,2 @@
-### Freegate 7.98 2022/10/11
-[fg798p.zip](files/fg798p.zip)
+### Freegate 7.99 2023/02/27
+[fg799p.zip](files/fg799p.zip)

@@ -1,2 +1,2 @@
-### Freegate 8.01 2025/04/03
-[fg801p.zip](files/fg801p.zip)
+### Freegate 8.02 2025/06/12
+[fg802p.zip](files/fg802p.zip)
